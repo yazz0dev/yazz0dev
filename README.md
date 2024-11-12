@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @yazzdev
+- 👋 Hi, I’m yaseen
 - 👀 I’m interested in Coding 
 - 🌱 I’m currently learning MCA
 - 💞️ I’m looking to collaborate on Open source 
