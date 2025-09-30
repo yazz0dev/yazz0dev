@@ -1,5 +1,3 @@
-# Yaseen | Full-Stack Developer 🚀
-
 > MCA Student, specializing in the **MEVN/MERN stack**. Driven by a passion for building robust, high-performance systems and mastering the entire development lifecycle.
 
 <p align="center">
